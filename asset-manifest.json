@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Test-admin-panel/static/css/main.3a50a9d2.chunk.css",
+    "main.js": "/Test-admin-panel/static/js/main.32737a64.chunk.js",
+    "main.js.map": "/Test-admin-panel/static/js/main.32737a64.chunk.js.map",
+    "runtime-main.js": "/Test-admin-panel/static/js/runtime-main.367ace77.js",
+    "runtime-main.js.map": "/Test-admin-panel/static/js/runtime-main.367ace77.js.map",
+    "static/css/2.36020323.chunk.css": "/Test-admin-panel/static/css/2.36020323.chunk.css",
+    "static/js/2.9c28cce5.chunk.js": "/Test-admin-panel/static/js/2.9c28cce5.chunk.js",
+    "static/js/2.9c28cce5.chunk.js.map": "/Test-admin-panel/static/js/2.9c28cce5.chunk.js.map",
+    "index.html": "/Test-admin-panel/index.html",
+    "precache-manifest.0d27c732e9b9967a86bccc2de0d6553d.js": "/Test-admin-panel/precache-manifest.0d27c732e9b9967a86bccc2de0d6553d.js",
+    "service-worker.js": "/Test-admin-panel/service-worker.js",
+    "static/css/2.36020323.chunk.css.map": "/Test-admin-panel/static/css/2.36020323.chunk.css.map",
+    "static/css/main.3a50a9d2.chunk.css.map": "/Test-admin-panel/static/css/main.3a50a9d2.chunk.css.map",
+    "static/js/2.9c28cce5.chunk.js.LICENSE.txt": "/Test-admin-panel/static/js/2.9c28cce5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.367ace77.js",
+    "static/css/2.36020323.chunk.css",
+    "static/js/2.9c28cce5.chunk.js",
+    "static/css/main.3a50a9d2.chunk.css",
+    "static/js/main.32737a64.chunk.js"
+  ]
+}
